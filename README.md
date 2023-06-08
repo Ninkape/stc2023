@@ -1,4 +1,7 @@
-Nina Petríková
-Introduction to version control with Git - Training
-Introduction to GitHub - Training
-https://learn.microsoft.com/en-us/users/petrkovnina-3319/
+Meno a priezvisko : Nina Petríková
+
+Absolvovaný študijný program: Úvod do správy verzií pomocou Git - Training (Learning Path)
+
+Absolvovaného modulu: Úvod do GitHubu - školenie (modul)
+
+ŠTC profil na Microsoft Learn: https://learn.microsoft.com/en-us/users/petrkovnina-3319/
